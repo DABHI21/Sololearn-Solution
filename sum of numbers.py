@@ -1,4 +1,4 @@
-# Find the sum of given number 0 to N.
+# Find the sum of given number 0 to N including N.
 
 N= int(input())
 sum=0
