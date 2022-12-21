@@ -1,4 +1,4 @@
-# Calculate the tip in hotel as per bill amount.
+# Calculate the tip in hotel as per total amount of bill .
 
 bill=int(input())
 tip=float((bill*20)/100)
