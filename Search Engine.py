@@ -1,4 +1,4 @@
-#search the word you want in your given sentence or text 
+# search the word you want in your given sentence or text 
 
 def search(text, word):
    
