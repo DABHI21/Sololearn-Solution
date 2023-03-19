@@ -21,7 +21,4 @@ def balanced(expression):
             if len(stack) == 0 or stack.pop() != '(':
                 return False
     return len(stack) == 0
-
-    
-
 print(balanced(input()))
