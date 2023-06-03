@@ -1,6 +1,6 @@
 # Sololearn-Solution
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhi21&label=Profile%20views&color=0e75b6&style=flat" alt="dabhi21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhi21&label=Repository%20views&color=0e75b6&style=flat" alt="dabhi21" /></p>
 
 This repositoty is for solution of Sololearn Problems in Python language.
 
